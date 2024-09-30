@@ -60,7 +60,6 @@ print(f"Pseudorandom choice from list: {random_choice}")
 
 ```
 ## output:
-
 ![alt text](<Screenshot 2024-09-30 091103.png>)
 
 ## Result:
