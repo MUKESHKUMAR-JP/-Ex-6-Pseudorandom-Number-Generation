@@ -1,7 +1,10 @@
 # EX06 - PSEUDORANDOM NUMBER GENERATION
 
+### DATE: 
+
 ## AIM:
-Implementation of Pseudorandom Number Generation Using Standard library
+Implementation of Pseudorandom Number Generation Using Standard library.
+
 ## ALGORITHM:
 1. Start the program and import the required libraries.
 2. Seed the random number generator using the current time (i.e) rand(time(0));
@@ -10,8 +13,8 @@ Implementation of Pseudorandom Number Generation Using Standard library
 5. End the program.
 ## PROGRAM:
 ```
-NAME: Aswinth T
-Register Number: 212222230015
+NAME: Mukesh Kumar J P
+Register Number: 212222220002
 ```
 ```
 #include <stdio.h>
@@ -41,4 +44,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/c5fa2cf1-cb90-4524-9358-ba58c12b3302)
 
 ## RESULT:
-The Implementation of Pseudorandom Number Generation Using Standard library is successful
+The Implementation of Pseudorandom Number Generation Using Standard library is successful.
